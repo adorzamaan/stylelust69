@@ -76,7 +76,7 @@ $(function ($) {
         arrows: true,
         nextArrow: '<i class="fas fa-angle-right ar_right"></i>',
         prevArrow: '<i class="fas fa-angle-left ar_left"></i>',
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 1800,
         speed: 1200,
         dots: true,
