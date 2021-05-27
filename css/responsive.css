@@ -1,0 +1,232 @@
+@media(max-width:575px) {
+    .filture button {
+        padding: 5px;
+        font-size: 14px;
+    }
+}
+
+@media(max-width:767px) {
+    #stylelust_service .style_support_items {
+        margin-bottom: 18px;
+    }
+
+
+    .item_overlay span {
+        font-size: 16px;
+    }
+
+    .item_overlay h3 {
+        font-size: 18px;
+        padding-bottom: 20px;
+        font-weight: 500;
+    }
+
+    .item_overlay a {
+        font-size: 12px;
+        padding: 8px 12px;
+    }
+
+    .ftr_logo,
+    .ftr_menu,
+    .ftr_right {
+        text-align: center;
+    }
+
+    .ftr_contact {
+        text-align: center;
+    }
+
+    .ftr_contact ul li {
+        text-align: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+
+    .ftr_right .footer_social_link {
+        text-align: center;
+    }
+
+    #microsoft_surface .upcoming_item .upcoming_content {
+        padding-top: 25px;
+    }
+
+    .blog_content {
+        margin-bottom: 25px;
+    }
+
+    .ftr_logo p {
+        padding: 10px 0px;
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .ftr_contact h3 {
+        font-size: 19px;
+        padding: 15px 0px;
+    }
+
+    .ftr_menu h3 {
+        padding: 15px 0px;
+    }
+
+
+    .ftr_right h3 {
+        padding: 15px 0px;
+    }
+
+
+
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .item_overlay span {
+        font-size: 20px;
+    }
+
+    .item_overlay h3 {
+        font-size: 23px;
+        padding-bottom: 20px;
+        font-weight: 500;
+    }
+
+    .item_overlay a {
+        font-size: 14px;
+        padding: 8px 12px;
+    }
+
+    .upcoming_content ul .box {
+        width: 65px;
+        height: 65px;
+
+
+    }
+
+}
+
+@media(max-width:575px) {
+    .btm_fotter p {
+        font-size: 10px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+
+    .btm_fotter p a {
+        font-size: 10px;
+    }
+
+    .btm_fotter {
+        margin-top: 10px;
+    }
+
+    .ftr_logo p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .ftr_contact h3 {
+        font-size: 15px;
+        padding: 12px 0px;
+    }
+
+    .ftr_menu h3 {
+        padding: 12px 0px;
+        font-size: 15px;
+    }
+
+
+    .ftr_right h3 {
+        padding: 12px 0px;
+        font-size: 15px;
+    }
+
+    #blog_part {
+        padding: 30px 0px 20px;
+    }
+
+    .customer_feed {
+        margin-top: 20px;
+
+    }
+
+    #latest_product {
+        padding-top: 0px;
+    }
+
+    #latest_product .latest_items {
+        padding: 30px 0px 0px;
+    }
+
+    .upcoming_content ul .box {
+        width: 60px;
+        height: 60px;
+
+    }
+
+    .upcoming_content ul .box h5 {
+        font-size: 14px;
+
+    }
+
+    .upcoming_content ul .box p {
+        padding: 8px 0px 0px;
+        font-size: 13px;
+    }
+
+    #collection_product {
+        padding: 30px 0px 10px;
+    }
+
+    .filture ul li {
+        font-size: 14px;
+        padding: 10px;
+        margin: 0px 0px 10px;
+
+    }
+
+    .style_login ul li a {
+        font-size: 14px;
+    }
+
+    #stylelust_banner .pogoSlider-dir-btn {
+        display: none;
+    }
+
+    .style_left .menu_icon i {
+        font-size: 20px;
+    }
+
+    .banner_content {
+        padding-left: 15px;
+    }
+
+    .banner_content p {
+        color: #fff;
+        padding: 15px 0px;
+        max-width: 450px;
+    }
+
+    .banner_content h1 {
+        font-size: 40px;
+
+    }
+
+    .banner_content h3 {
+        font-size: 30px;
+    }
+
+    .banner_btn a {
+        padding: 8px 20px;
+        font-size: 12px;
+
+    }
+
+    .product_item {
+        margin-left: 0px;
+
+    }
+
+}
